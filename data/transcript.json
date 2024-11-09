@@ -1,0 +1,57 @@
+{
+  "pause": 250,
+  "speakers": [
+    {
+      "name": "John",
+      "phrases": [
+        {
+          "words": {
+            "en": "this is one phrase.",
+            "es": "esta es una frase."
+          },
+          "time": 1474
+        },
+        {
+          "words": {
+            "en": "now the second phrase.",
+            "es": "ahora la segunda frase."
+          },
+          "time": 1667
+        },
+        {
+          "words": {
+            "en": "end with last phrase.",
+            "es": "termina con la última frase."
+          },
+          "time": 1214
+        }
+      ]
+    },
+    {
+      "name": "Jack",
+      "phrases": [
+        {
+          "words": {
+            "en": "another speaker here.",
+            "es": "otro hablante aquí."
+          },
+          "time": 1570
+        },
+        {
+          "words": {
+            "en": "saying her second phrase.",
+            "es": "diciendo su segunda frase."
+          },
+          "time": 1989
+        },
+        {
+          "words": {
+            "en": "and eventually finishing up.",
+            "es": "y finalmente terminando."
+          },
+          "time": 1486
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,11 @@
 node_modules/
+
 .expo/
+.expo-shared/
+
+android/
+ios/
+.idea/
 dist/
 npm-debug.*
 *.jks
@@ -10,5 +16,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
-# macOS
 .DS_Store
+
+*.env
+
